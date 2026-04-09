@@ -1,0 +1,10 @@
+
+
+frontend/public/rockyou.txt
+node_modules/
+.next/
+.env
+frontend/node_modules/
+frontend/.next/
+
+backend/node_modules/
